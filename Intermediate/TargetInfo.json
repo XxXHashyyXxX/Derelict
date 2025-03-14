@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Derelict",
+			"Path": "../Source/Derelict.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DerelictEditor",
+			"Path": "../Source/DerelictEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

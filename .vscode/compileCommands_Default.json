@@ -1,0 +1,26 @@
+[
+	{
+		"file": "/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/Derelict/Derelict.Build.cs",
+		"arguments": [
+			"/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/.vscode/compileCommands_Default/Derelict.1.rsp"
+		],
+		"directory": "/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Source"
+	},
+	{
+		"file": "/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/Derelict/Derelict.cpp",
+		"arguments": [
+			"/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/.vscode/compileCommands_Default/Derelict.1.rsp"
+		],
+		"directory": "/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Source"
+	},
+	{
+		"file": "/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/Derelict/Derelict.h",
+		"arguments": [
+			"/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Extras/ThirdPartyNotUE/SDKs/HostLinux/Linux_x64/v23_clang-18.1.0-rockylinux8/x86_64-unknown-linux-gnu/bin/clang++",
+			"@/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/.vscode/compileCommands_Default/Derelict.1.rsp"
+		],
+		"directory": "/home/lodej_1214437/Pobrane/Linux_Unreal_Engine_5.5.4/Engine/Source"
+	}
+]

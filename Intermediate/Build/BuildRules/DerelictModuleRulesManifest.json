@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/Derelict/Derelict.Build.cs",
+		"/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/Derelict.Target.cs",
+		"/home/lodej_1214437/Dokumenty/Unreal Projects/Derelict/Source/DerelictEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
